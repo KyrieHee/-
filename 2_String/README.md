@@ -6,3 +6,5 @@
 
 3. 有两个排序数组A1和A2, 内存在A1的末尾有足够多的空余空间容纳A2. 请实现一个函数，把A2中的所有数字插入A1中，并且所有数字都是排序的。
 
+4. [实现strStr](https://leetcode.com/problems/implement-strstr/)
+
