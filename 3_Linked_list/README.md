@@ -6,4 +6,6 @@
 
 3. [删除排序链表中的重复元素](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
+4. [删除链表中的节点](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
 
